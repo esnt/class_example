@@ -1,0 +1,43 @@
+Sandwich	Calories (Y)	Fat (X)
+Roast Turkey Reuben Sandwich	611	30
+Roast Turkey & Swiss Sandwich	725	30
+Roast Ham & Swiss Sandwich	705	31
+Roast Beef & Swiss Sandwich	777	41
+Corned Beef Reuben Sandwich	606	33
+Ultimate BLT Sandwich	779	45
+Roast Turkey Ranch & Bacon Sandwich	834	38
+Chicken Salad w/ Pecans Sandwich	769	39
+Turkey Sub	633	30
+Roast Beef Sub	723	42
+Philly Beef & Swiss Sub	670	35
+Italian Sub	622	33
+Hot Ham & Swiss Sub	498	18
+French Dip Sub w/ Au Jus	448	17
+Swiss Melt	303	12
+Super Roast Beef	398	19
+Regular Roast Beef	320	14
+Medium Roast Beef Sandwich	415	21
+Large Roast Beef Sandwich	547	28
+Jr. Ham & Swiss Melt	211	5
+Hot Ham n' Cheese	304	7
+Ham & Swiss Melt Sandwich	275	6
+French Dip Sandwich	391	16
+French Dip & Swiss Sandwich	473	18
+Beef 'n Cheddar Sandwich	445	21
+Bacon Beef 'n Cheddar Sandwich	521	27
+BBQ Bacon \'n Jack 2for	360	16
+Arby's Melt	302	12
+Sourdough Roast Beef Melt	355	14
+Sourdough Ham Melt	380	13
+SW Chipotle Chicken Sandwich - Crispy	742	41
+SW Chipotle Chicken Sandwich - Grilled	517	25
+Chicken Fillet Sandwich - Grilled	414	17
+Chicken Fillet Sandwich - Crispy	638	33
+Chicken Cordon Bleu Sandwich - Grilled	488	19
+Chicken Cordon Bleu Sandwich - Crispy	712	35
+Chicken Bacon & Swiss - Grilled	462	17
+Chicken Bacon & Swiss - Crispy	687	33
+Kids Meal - Junior Roast Beef Sandwich	272	10
+Market Fresh» Mini Turkey & Cheese Sandwich	235	4
+Market Fresh» Mini Ham & Cheese Sandwich	228	5
+Fish Sandwich	569	26
